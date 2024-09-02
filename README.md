@@ -5,4 +5,4 @@ Standard and scientific functions are included in the application. Math function
 The suggested system has no errors. Simple Python language ideas are incorporated into the system.
 Because the Python Tkinter GUI included a variety of controls, including buttons, labels, and text boxes, it was possible to create an application that was easy for users to navigate. 
 The internet's exponential growth and usage validates the project's enormous potential
-
+![Screenshot 2024-09-02 063037](https://github.com/user-attachments/assets/f933163b-e58c-4042-9d14-5ed39a079cbe)
